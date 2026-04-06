@@ -1,0 +1,2 @@
+# Insight-on-Asake-and-Dj-Snake--Worship-A-power-Bi-dashboard-
+This is a YouTube/social media comment analytics dashboard built to analyse audience engagement on the song "Worship" by Asake featuring DJ Snake. It tracks 4,061 total comments and 16K likes on those comments, examining engagement patterns across days of the week, time of day, artist attribution, user activity, and day-of-month distribution.
